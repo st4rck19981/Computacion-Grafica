@@ -1,0 +1,11 @@
+Se probo el quadtree en 3 imagenes.
+dota.jpg
+paisaje.jpg
+simpson.jpg
+
+En la terminal muestra la cantidad de nodos padre e hijo que serian la cantidad de nodos total del quadtree
+
+Para hallar la complejidad se hizo como calcular la complejidad de busqueda de la posicion de un pixel en la imagen buscando en el quadtree. Para ello se establecio 2 casos, en el mejor caso y en el peor caso.
+
+La solucion para ello es usar la posicion del pixel para poder dirigirnos en el quadtree indicando si debemos ir al noroeste, noreste, suroeste o sureste. Solo habria que hacer comparaciones sobre este punto en que posicion de los puntos cardinales esta.
+Para hallar el mejor caso habria que saber cual es el nivel minimo de nuestro quadtree pues ese seria su recorrido y para saber el peor caso hallamos el nivel maximo de nuestro arbol.
