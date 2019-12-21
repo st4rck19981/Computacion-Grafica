@@ -16,5 +16,8 @@ Estos son los videos que se grabo con el laser y la base giratoria.
 5. https://youtu.be/zc5s7E0a-o8
 6. https://youtu.be/ffGjTUb_xDc
 
+Y se grabo mientras estaba compilando el muneco.mp4
+1. https://youtu.be/Yv02_XO3bso
+
 Se hizo diferentes videos de solo 3 objetos y los resultados se guardaron en la carpeta Resultados.
 
