@@ -2,5 +2,7 @@ Mientras se hizo el proyecto se busco un laser de linea recta pero no lo encontr
 
 La linea al no ser precisa reflejaba la luz en la superficie en la que estaba el objeto y el objeto mismo por lo que hace mas dificil la construccion en 3D del objeto.
 
+El objeto puede ser grabado en horizontal o vertical (posicion de la camara) puesto que el .obj se crea al final y tu puedes orientarlo posteriormente.
+
 La base giratoria fue casera, algo hecho a mano sin productos electronicos por lo que fue inestable.
 
