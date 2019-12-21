@@ -1,0 +1,6 @@
+Mientras se hizo el proyecto se busco un laser de linea recta pero no lo encontramos asi que improvisamos. Usamos un lapicero y un puntero laser para crear una linea, a pesar de ello la linea no era precisa y estaba rodeado de un halo rojo (esto se puede ver en los videos).
+
+La linea al no ser precisa reflejaba la luz en la superficie en la que estaba el objeto y el objeto mismo por lo que hace mas dificil la construccion en 3D del objeto.
+
+La base giratoria fue casera, algo hecho a mano sin productos electronicos por lo que fue inestable.
+
