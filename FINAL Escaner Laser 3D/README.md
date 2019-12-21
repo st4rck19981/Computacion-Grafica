@@ -9,12 +9,12 @@ Nuestro escaner 3D usa una base giratoria para escanear el objeto completo y un 
 
 ## VIDEOS:
 Estos son los videos que se grabo con el laser y la base giratoria.
-https://youtu.be/Ay8754MrP1Q
-https://youtu.be/1N8Lm8WNxHI
-https://youtu.be/BbI6FV_rrdA
-https://youtu.be/GyaLp33qUZ0
-https://youtu.be/zc5s7E0a-o8
-https://youtu.be/ffGjTUb_xDc
+1. https://youtu.be/Ay8754MrP1Q
+2. https://youtu.be/1N8Lm8WNxHI
+3. https://youtu.be/BbI6FV_rrdA
+4. https://youtu.be/GyaLp33qUZ0
+5. https://youtu.be/zc5s7E0a-o8
+6. https://youtu.be/ffGjTUb_xDc
 
 Se hizo diferentes videos de solo 3 objetos y los resultados se guardaron en la carpeta Resultados.
 
